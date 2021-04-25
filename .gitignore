@@ -1,0 +1,15 @@
+*.log
+venv/
+.DS_Store
+.idea/
+arithmetic_coder/__*
+training/__pycache__/*
+utils/__pycache__/inout.cpython-38.pyc
+ms_voxel_dnn_coder/__pycache__/*
+utils/__pycache__/ds_pc_superres_blocks.cpython-38.pyc
+Output/*
+Model/*
+samples/*
+TestPC/*
+utils/__pycache__/*
+venv2/
